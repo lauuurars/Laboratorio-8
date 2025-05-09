@@ -98,8 +98,7 @@ input {
 
 .completada {
   text-decoration: line-through;
-  color: rgb(3, 250, 3);
-  background-color: black;
+  color: white;
   border: none;
 }
 
